@@ -1,7 +1,6 @@
+import React from "react";
 import Loading from "./component/Loading";
 import { Suspense, lazy } from "react";
-
-const url = "https://course-api.com/react-tours-project";
 
 const Tours = lazy(() => import("./component/Tours"));
 
