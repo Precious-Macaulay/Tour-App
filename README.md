@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 OR
 
-go to https://sage-tanuki-7977d9.netlify.app/
+go to https://mac-simple-tour-app.netlify.app/
